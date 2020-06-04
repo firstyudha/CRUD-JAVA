@@ -1,0 +1,9 @@
+Cara Installasi
+
+1. Buat DB namanya = mahasiswa_java
+2. import di DB mahasiswa_java file mahasiswa_java.sql
+3. download mysql-connector-java-8.0.11.jar atau import mysql-connector-java yang kalian miliki
+4. Selesai.
+
+Copyright by: Yudha Pratama - Rafly Yusrizal Amrie
+
